@@ -2,3 +2,7 @@
 MNIST, стр. 123-135/data/
 
 MNIST, стр. 123-135/.ipynb_checkpoints/
+
+*.pt
+
+Ининциализация весов, стр.148-152/data/MNIST/raw/
