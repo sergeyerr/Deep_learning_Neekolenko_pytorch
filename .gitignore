@@ -6,3 +6,9 @@ MNIST, стр. 123-135/.ipynb_checkpoints/
 *.pt
 
 Ининциализация весов, стр.148-152/data/MNIST/raw/
+
+mnist_data/MNIST/raw/
+
+Инициализация весов, стр. 148-152/.ipynb_checkpoints/
+
+Батч-нормализация, стр. 160-161/.ipynb_checkpoints/
