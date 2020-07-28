@@ -20,3 +20,7 @@ mnist_data/MNIST/raw/
 Порождение текста, стр. 259-276/test.txt
 
 Порождение текста, стр. 259-276/voyna-i-mir-tom-1.txt
+
+word2vec gensim, стр. 297-305/pr_i_nac.txt
+
+word2vec gensim, стр. 297-305/.ipynb_checkpoints/gensim-checkpoint.ipynb
